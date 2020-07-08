@@ -1,1 +1,3 @@
 Git is amazing for version control
+It aves differencs rather than whole files
+
